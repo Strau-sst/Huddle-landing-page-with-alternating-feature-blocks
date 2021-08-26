@@ -383,27 +383,33 @@ body {
 	flex-direction: row;
 	margin: 40px 100px;
 	align-items: center;
+	padding: 60px;
 }
 
 .boximg {
-	width: 35%;
-	margin: 
+	width: 40%;
+	margin: 0;
 }
 
 .der {
 	order: 1;
 }
 
+.izq {
+	margin-right: 80px;
+	margin-left: 60px;
+}
+
 .titulosec {
 	font-size: 32px;
 	text-align: left;
-	margin: 0 0 0 120px;
+	margin: 0 0 0 60px;
 }
 
 .textosec {
 	font-size: 18px;
 	text-align: left;
-	margin: 18px 40px 0 120px;
+	margin: 18px 40px 0 60px;
 	line-height: 28px;
 }
 
